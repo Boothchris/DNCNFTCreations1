@@ -64,26 +64,26 @@
   ],
   "headerLinks": [
     {
-      "menuLabel": "Shop",
+      "menuLabel": "Shop NFT's",
       "menuLink": "/shop",
       "category": [
         {
-          "categoryLabel": "woman",
+          "categoryLabel": "NFT's",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "Mechanical Apes",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": "Squirrelly Squirrels",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": "Aliens",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "trousers",
+              "menuLabel": "Bears",
               "menuLink": "/shop"
             }
           ]
